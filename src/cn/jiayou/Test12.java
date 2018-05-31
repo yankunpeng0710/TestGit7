@@ -30,6 +30,10 @@ public class Test12 {
 	    	List<String>   list2=new  ArrayList<String>();
             System.out.println(list);
             System.out.println(list2);
+            list2.add("a");
+	    	list2.add("b");
+	    	list2.add("c");
+	    	list2.add("d");
             List<String>   list3=new  ArrayList<String>();
             System.out.println(list);
 		}
