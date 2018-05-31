@@ -31,5 +31,6 @@ public class Test12 {
             System.out.println(list);
             System.out.println(list2);
             List<String>   list3=new  ArrayList<String>();
+            System.out.println(list);
 		}
 }
